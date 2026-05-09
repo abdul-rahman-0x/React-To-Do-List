@@ -130,7 +130,7 @@ focus-workspace/
 Copy the repository to your local machine:
 
 ```bash
-git clone https://github.com/ABDUL-RAHMAN-9/React-To-Do-List.git
+git clone https://github.com/abdul-rahman-0x/React-To-Do-List.git
 ```
 
 ### 2. Navigate to Directory
@@ -161,7 +161,7 @@ This project is open-source and available under the **MIT License**. Feel free t
 
 ## Author
 
-Built by **[Abdul Rahman](https://github.com/ABDUL-RAHMAN-9)**  
+Built by **[Abdul Rahman](https://github.com/abdul-rahman-0x)**  
 
 
 
